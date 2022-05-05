@@ -22,7 +22,7 @@ Esto se representa mediante esferas que se colocan en las casillas del mapa, una
 ### Modo InGame
 Al ejecutar el punto de partida vemos dos entidades, el **Player** y el **Minotauro**. Dotados de controles por teclado y una inteligencia artificial basada en algoritmos de pathfinding de A* con Heurística respectivamente. El jugador puede desplazarse libremente por el área de juego, esquivando al minotauro o usando el Hilo como ya se explicó en la documentación de la Práctica 2.
 
-![](https://github.com/IAV22-G20/P2/blob/main/images%20documentacion/inGame0.PNG)
+![](https://github.com/javimu06/IAV22-MunozMartindelaSierra/blob/main/images%20documentacion/InGame0.png)
 
 ## Proyecto Final
 Mi proyecto final consistirá en expandir el punto de Partida en diferentes aspectos explicados a continuación:
